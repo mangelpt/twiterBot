@@ -1,1 +1,3 @@
-this is other file to pull
+this line was replaced in feature-2 branch
+
+this line was added in feature-2 branch
